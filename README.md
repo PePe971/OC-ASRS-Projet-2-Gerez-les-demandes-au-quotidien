@@ -1,5 +1,36 @@
 # OC-ASRS-Projet-2-Gerez-les-demandes-au-quotidien
 OpenClassrooms : Administrateur Systèmes, Réseaux et Sécurité 2024-2025
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Systèmes & Réseaux
+Gérez les demandes au quotidien
+50 heures
+Qu'allez-vous apprendre dans ce projet ?
+ 
+
+Vous allez commencer par reconstruire le serveur GLPI sous Debian et restaurer les fonctionnalités de ticketing. Parallèlement, vous devrez saisir toutes les demandes accumulées durant la panne dans le nouveau système GLPI et traiter ces tickets en priorisant les urgences. Vous aurez aussi la responsabilité de communiquer efficacement avec les utilisateurs concernés pour résoudre rapidement leurs problèmes. Enfin, vous allez contribuer à l'amélioration continue du service en proposant des innovations
+
+ 
+
+ 
+
+En quoi ces compétences sont-elles importantes pour votre carrière ?
+ 
+
+Ce projet vous permet de développer vos compétences en gestion des incidents et en support utilisateur, essentielles pour tout administrateur systèmes et réseaux. Vous apprendrez à gérer efficacement un système de ticketing, une compétence clé pour le support IT. De plus, la capacité à réagir rapidement aux urgences, à communiquer efficacement avec les utilisateurs et à implémenter des solutions qui améliorent les processus IT est crucial pour assurer la continuité des opérations commerciales, et ceci vous préparera pour des responsabilités accrues.
+
+ 
+
+Prêt à démarrer votre projet ?
+ 
+
+Vous allez réaliser un projet réaliste, présenté sous forme de mission en entreprise. Il se rapproche d' une mission typique effectuée sur le terrain.
+
+Le projet est découpé en trois sections :
+
+Mission - Présentation, qui présente le contexte de votre mission
+Mission - Détails, qui présente les détails de la mission, sous forme d’échanges avec les collègues
+Livrables et Soutenance, qui décrit les livrables à fournir et le déroulement de la soutenance de validation.
+Prenez soin de lire le projet en entier avant de commencer, pour comprendre ce qui est attendu de vous.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Mission - Présentation
 
